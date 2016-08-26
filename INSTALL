@@ -1,9 +1,0 @@
-Building FastCash
-
-See doc/readme-qt.rst for instructions on building FastCash QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of FastCash.
-
-See doc/build-*.txt for instructions on building fastcashd,
-the intended-for-services, no-graphical-interface, reference
-implementation of FastCash.
